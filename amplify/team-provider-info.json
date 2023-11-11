@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-samplelambdases-dev-160559-authRole",
+      "UnauthRoleArn": "arn:aws:iam::036995664649:role/amplify-samplelambdases-dev-160559-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::036995664649:role/amplify-samplelambdases-dev-160559-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-samplelambdases-dev-160559-deployment",
+      "UnauthRoleName": "amplify-samplelambdases-dev-160559-unauthRole",
+      "StackName": "amplify-samplelambdases-dev-160559",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:036995664649:stack/amplify-samplelambdases-dev-160559/706e3ea0-7ece-11ee-9b0e-0eaa6d8266f1",
+      "AmplifyAppId": "d2fxht6rc5479d"
+    },
+    "categories": {
+      "api": {
+        "samplelambdases": {}
+      },
+      "function": {
+        "sampleLambdaSes": {
+          "deploymentBucketName": "amplify-samplelambdases-dev-160559-deployment",
+          "s3Key": "amplify-builds/sampleLambdaSes-304f395942727146574d-build.zip",
+          "region": "ap-northeast-1",
+          "emailFrom": "no-reply@gentarokai.site"
+        }
+      }
+    }
+  }
+}
